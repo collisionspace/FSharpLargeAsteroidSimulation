@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="LargeAsteroidFieldSimulation/LargeAsteroidFieldSimulation.fsproj">
+  <MonoDevelop.Ide.ItemProperties.LargeAsteroidFieldSimulation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LargeAsteroidFieldSimulation/Program.fs">
+    <Files>
+      <File FileName="LargeAsteroidFieldSimulation/Program.fs" Line="13" Column="7" />
+      <File FileName="LargeAsteroidFieldSimulation/SmallAsteroidFieldSimulation.fs" Line="20" Column="16" />
+      <File FileName="LargeAsteroidFieldSimulation/QuadTree.fs" Line="35" Column="17" />
+      <File FileName="LargeAsteroidFieldSimulation/AssemblyInfo.fs" Line="19" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
